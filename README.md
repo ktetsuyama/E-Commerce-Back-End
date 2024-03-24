@@ -28,7 +28,7 @@ I created the routes necessary to allow the user to accomplish the desired funct
 
 Here is a video of the application in action:
 
-[Link to Video](https://youtu.be/qrxBaJAhZF4)
+[Link to Video](https://youtu.be/-_0sYAXhF58)
 
 ## Contributors
 
